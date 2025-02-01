@@ -1,0 +1,153 @@
+
+body{
+    background-image:url("https://as1.ftcdn.net/v2/jpg/00/85/17/22/1000_F_85172263_BVbXITii6EjirIbojbScEttuJNyLJiMK.jpg");
+    background-clip: calc(100%);
+    background-size: 100%,100%;
+    text-align:left;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.d1{
+    margin: 0%;
+    position:absolute;
+    padding-top: 480px;
+    padding-left: 250px;
+    text-decoration: black;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    text-align:end;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif(cursive);
+    font-size: 100px;
+
+}
+.d2{
+    padding-top: 650px;
+    padding-left: 190vh;
+    border: 10px;
+    border-radius: 10%;
+    justify-content: center;
+    align-items: center;
+    display:inline-flex;
+    position: relative;
+    bottom: auto;
+}
+button{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    bottom: 20px;
+    font-size: 30px;
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: rgb(211, 193, 90);
+   
+    
+}
+button:hover{
+ background-color: rgb(181, 160, 20);
+}
+
+
+#b1{
+    background-image: url("https://wallpaperaccess.com/full/2696016.jpg");
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+    width: 98vw;
+    background-size: 100vw 100vh ;
+    background-repeat: no-repeat;
+    font-size: larger;
+}
+#p{
+    margin-left: 20px;
+}
+#res1{
+    display: flex;
+    position: relative;
+    height: 100%;
+    width: 250px;
+    margin-left: auto;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+#res1 img{
+    height: 350px;
+    width: 100%;
+    border-radius: 30px;
+}
+.p1{
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.bt:hover{
+    background-color: rgb(181, 160, 20);
+   }
+.bt{
+    background-color: rgb(211, 193, 90); 
+    width: 150px;
+    height: 50px;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 30px;
+    
+}
+.bt1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top:120px;
+    align-items: center;
+
+}
+#previous{
+    margin-left: 50px;
+}    
+
+#Next{
+    margin-right: 50px;
+}
+
+#b2{
+    background-image: url("https://wallpaperaccess.com/full/2696016.jpg");
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+    width: 98vw;
+    background-size: 100vw 100vh ;
+    background-repeat: no-repeat;
+    font-size: large;
+}
+main{
+    padding-left: 20px;
+}
+.bt:hover{
+    background-color: rgb(181, 160, 20);
+   }
+.bt{
+    background-color: rgb(211, 193, 90); 
+    width: 150px;
+    height: 50px;
+    border-width: 3px;
+    border-radius: 10px;
+    font-size: 30px;
+    
+}
+.bt1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top:80px;
+  
+}
+#previous{
+    margin-left: 50px;
+}    
+
+
